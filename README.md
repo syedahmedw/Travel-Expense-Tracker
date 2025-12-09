@@ -59,10 +59,10 @@ It works **offline**, syncs data locally using **LocalStorage**, and provides a 
 ## 📸 Screenshots
 
 ### 📱 Home Screen
-<img src="https://github.com/user-attachments/assets/bfefe9e0-db1f-4528-ae51-b7de680c7b25" width="350"/>
-
-### 📊 Summary Page
 <img src="https://github.com/user-attachments/assets/9d677a97-d2ab-4c7d-af7d-c73755935588" width="350"/>
 
+### 📊 Summary Page
+<img src="https://github.com/user-attachments/assets/bfefe9e0-db1f-4528-ae51-b7de680c7b25" width="350"/>
+
 ### Export to
-<img src="https://github.com/user-attachments/assets/117593e2-cbe1-40f0-991f-5e05f314ca93" width="150"/>
+<img src="https://github.com/user-attachments/assets/117593e2-cbe1-40f0-991f-5e05f314ca93" width="350"/>
