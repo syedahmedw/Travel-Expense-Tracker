@@ -56,3 +56,16 @@ It works **offline**, syncs data locally using **LocalStorage**, and provides a 
 - **Netlify** (deployment hosting)
 
 ---
+## 📸 Screenshots
+
+### 📱 Home Screen
+<img src="[https://user-images.githubusercontent.com/YOUR-HOME-SCREEN.png](https://private-user-images.githubusercontent.com/220130534/524137387-117593e2-cbe1-40f0-991f-5e05f314ca93.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyNjQ4ODAsIm5iZiI6MTc2NTI2NDU4MCwicGF0aCI6Ii8yMjAxMzA1MzQvNTI0MTM3Mzg3LTExNzU5M2UyLWNiZTEtNDBmMC05OTFmLTVlMDVmMzE0Y2E5My5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOVQwNzE2MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZmVkNzlhY2IwNWJhNWIzY2VhOTY0ZDIxM2I4Y2JjMDhjZjYwOTAxNGQ0NmQ1ZWIwOGU0ZGQ4N2ZlMTkyYWM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JV9sI01mAqApgitQNX5q8Q9xiRVIgMooeZReSMJ6VN0)" width="350"/>
+
+### 📊 Summary Page
+<img src="https://user-images.githubusercontent.com/YOUR-SUMMARY.png" width="350"/>
+
+### 📥 Install Prompt
+<img src="https://user-images.githubusercontent.com/YOUR-INSTALL.png" width="350"/>
+
+### 📲 Installed App on Home Screen
+<img src="https://user-images.githubusercontent.com/YOUR-ICON.png" width="350"/>
